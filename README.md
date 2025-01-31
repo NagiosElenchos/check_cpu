@@ -26,7 +26,7 @@ Install the `check:cpu` plugin:
 cd /opt/elenchos
 . .venv/bin/activate
 
-pip install elenchos-check-cpu
+pip install elenchos_check_cpu
 ./bin/elenchos gather-commands
 ```
 

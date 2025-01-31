@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "elenchos-check-cpu"
+name = "elenchos_check_cpu"
 version = "1.0.0"
 description = "A Élenchos command for checking CPU usage."
 authors = ["Set Based IT Consultancy <info@setbased.nl>"]
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/NagiosElenchos/check-cpu"
-documentation = "https://github.com/NagiosElenchos/check-cpu"
+repository = "https://github.com/NagiosElenchos/check_cpu"
+documentation = "https://github.com/NagiosElenchos/check_cpu"
 keywords = ["Élenchos", "Elenchos", "CPU"]
 classifiers = [
     'Development Status :: 5 - Production/Stable',
