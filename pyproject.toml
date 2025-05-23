@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "elenchos_check_cpu"
-version = "1.0.1"
+version = "1.1.0"
 description = "A Élenchos command for checking CPU usage."
 authors = ["Set Based IT Consultancy <info@setbased.nl>"]
 license = "MIT"
